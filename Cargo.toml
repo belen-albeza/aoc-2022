@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 aoc-runner = "0.3.0"
 aoc-runner-derive = "0.3.0"
+indextree = "4.5.0"
 itertools = "0.10.5"
 lazy_static = "1.4.0"
 regex = "1.7.0"
